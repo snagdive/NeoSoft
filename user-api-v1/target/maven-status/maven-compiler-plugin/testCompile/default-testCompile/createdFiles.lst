@@ -1,0 +1,16 @@
+com\shashi\userapiv1\GetAllUsersTest.class
+com\shashi\userapiv1\TestUtils$1.class
+com\shashi\userapiv1\TestUtils.class
+com\shashi\userapiv1\TestUtils$DateTimeDeserializer.class
+com\shashi\userapiv1\TestContext$1.class
+com\shashi\userapiv1\TestUtils$DynamodbEventMixin.class
+com\shashi\userapiv1\TestUtils$DynamodbEventMixin$RecordMixin.class
+com\shashi\userapiv1\TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+com\shashi\userapiv1\TestContext.class
+com\shashi\userapiv1\TestUtils$TestJacksonMapperModule.class
+com\shashi\userapiv1\TestUtils$DateTimeSerializer.class
+com\shashi\userapiv1\TestContext$TestLogger.class
+com\shashi\userapiv1\TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+com\shashi\userapiv1\SaveUserTest.class
+com\shashi\userapiv1\GetUserbyIdTest.class
+com\shashi\userapiv1\TestUtils$DynamodbEventMixin$AttributeValueMixIn.class

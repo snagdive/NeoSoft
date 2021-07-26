@@ -1,0 +1,6 @@
+com\shashi\userapiv1\User.class
+com\shashi\userapiv1\DeleteUser.class
+com\shashi\userapiv1\GetAllUsers.class
+com\shashi\userapiv1\UpdateUser.class
+com\shashi\userapiv1\GetUserbyId.class
+com\shashi\userapiv1\SaveUser.class
